@@ -1,0 +1,41 @@
+1	60	675	BChanh
+2	159	444	B.Tan
+3	560	108	BThanh
+4	703	675	CanGio
+5	47	25	CuChi
+6	411	107	GoVap
+7	116	115	HocMon
+8	503	675	NhaBe
+9	444	203	PNhuan
+10	564	385	Quan1
+11	647	170	Quan2
+12	484	296	Quan3
+13	616	494	Quan4
+14	436	451	Quan5
+15	246	533	Quan6
+16	725	570	Quan7
+17	217	617	Quan8
+18	726	98	Quan9
+19	393	364	Quan10
+20	298	419	Quan11
+21	255	29	Quan12
+22	295	155	T.Binh
+23	208	288	TanPhu
+24	658	30	ThuDuc
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
